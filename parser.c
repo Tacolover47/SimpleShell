@@ -111,5 +111,3 @@ struct command *parse_command(const char *cmdline)
 	free(cmdbuf);
 	return result;
 }
-
-
